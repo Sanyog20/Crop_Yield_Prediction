@@ -1,4 +1,4 @@
-# DSBDA_Mini_Project
+# Crop_Yield_Prediction
 
 Agriculture is the backbone of many economies, and predicting crop yields accurately is of paramount importance for sustainable agricultural practices and food security. Traditional methods of crop yield estimation often rely on historical data and manual calculations, which are time-consuming and prone to errors. With the advancements in data science and machine learning, it is now possible to leverage historical and real-time agricultural data to develop predictive models for crop yield estimation.
 
